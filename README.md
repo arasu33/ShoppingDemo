@@ -1,4 +1,9 @@
-# white_rabbit_coding_test
+# Sample Shopping app for Demo
 
-Coding test sample for White Rabbit.
+Flutter App for sample shoping Demo with Bloc Pattern.
+
+1. Product carousel
+2. Product offers
+3. Banners
+
 
