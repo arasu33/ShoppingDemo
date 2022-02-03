@@ -1,0 +1,89 @@
+{
+    "status": 200,
+    "data": {
+        "carousel": [
+            "https://tinyurl.com/y3w8oaah",
+            "https://tinyurl.com/y4vaulog",
+            "https://tinyurl.com/y3j7rq6g",
+            "https://tinyurl.com/y28jpmyr",
+            "https://tinyurl.com/y2w7fbdo",
+            "https://tinyurl.com/yy2f6lha"
+        ],
+        "banner": [
+            "https://tinyurl.com/y379jw6s",
+            "https://tinyurl.com/y3pjtea4",
+            "https://tinyurl.com/y2gersqn",
+            "https://tinyurl.com/y3c6ksu5",
+            "https://tinyurl.com/y4k2klen",
+            "https://tinyurl.com/y3pccdrc",
+            "https://tinyurl.com/y26fn9rm"
+        ],
+        "product_discounts": [
+            {
+                "id": "5001",
+                "type": "None",
+                "name": "T-Shirts",
+                "image": "https://tinyurl.com/y4f5e96j",
+                "description": "Description",
+                "offer": "Max 30% off"
+            },
+            {
+                "id": "5002",
+                "type": "None",
+                "name": "Shirts",
+                "image": "https://tinyurl.com/y2szwrys",
+                "description": "Description",
+                "offer": "Max 20% off"
+            },
+            {
+                "id": "5004",
+                "type": "None",
+                "name": "T-Shirts",
+                "image": "https://tinyurl.com/y4bfj5b7",
+                "description": "Description",
+                "offer": "Max 25% off"
+            },
+            {
+                "id": "5005",
+                "type": "None",
+                "name": "Shirts",
+                "image": "https://tinyurl.com/y44marw5",
+                "description": "Description",
+                "offer": "Max 35% off"
+            },
+            {
+                "id": "5023",
+                "type": "None",
+                "name": "T-Shirts",
+                "image": "https://tinyurl.com/y4urobx8",
+                "description": "Description",
+                "offer": "Max 35% off"
+            },
+            {
+                "id": "5043",
+                "type": "None",
+                "name": "Kurtas & Kurtis",
+                "image": "https://tinyurl.com/y2yhf95n",
+                "description": "Description",
+                "offer": ""
+            },
+            {
+                "id": "5065",
+                "type": "None",
+                "name": "Kurtas & Kurtis",
+                "image": "https://tinyurl.com/y5n467o3",
+                "description": "Description",
+                "offer": "Max 55% off"
+            },
+            {
+                "id": "5056",
+                "type": "None",
+                "name": "Saree",
+                "image": "https://tinyurl.com/yxupqdll",
+                "description": "Description",
+                "offer": "Max 25% off"
+            }
+        ]
+    },
+    "message": null
+}
